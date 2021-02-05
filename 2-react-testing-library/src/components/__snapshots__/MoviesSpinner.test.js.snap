@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MoviesSpinner component should render and test MoviesSpinner component snapshot 1`] = `
+<div
+  class="spinner-border"
+  role="alert"
+>
+  <span
+    class="sr-only"
+  >
+    Content is loading...
+  </span>
+</div>
+`;

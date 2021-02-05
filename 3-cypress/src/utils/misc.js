@@ -1,0 +1,1 @@
+export const unique = array => [...new Set(array)];
